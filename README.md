@@ -52,12 +52,12 @@ python main.py
 
 📁 Project Structure
 
-qa-api-tool/
-│
-├── main.py          # Entry point
-├── api_client.py    # Handles API requests
-├── tests.py         # QA test logic
-└── config.py        # API configuration
+qa-api-tool/ \
+│\
+├── main.py          # Entry point\
+├── api_client.py    # Handles API requests\
+├── tests.py         # QA test logic\
+└── config.py        # API configuration\
 
 🧠 What I learned
 
